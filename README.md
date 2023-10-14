@@ -12,4 +12,5 @@
 ## Steps to view output:
 
 1- Open the Bike_Sales_Playground.xlsx
+
 2- Go to the Dashboard sheet
